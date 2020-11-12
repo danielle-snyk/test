@@ -1,1 +1,1 @@
-FROM node:10.4.0
+FROM java:openjdk-8-jre-alpine
